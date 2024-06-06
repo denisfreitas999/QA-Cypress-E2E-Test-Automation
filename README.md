@@ -7,6 +7,11 @@
 4. [Usando Fixtures e Stubs em Testes](#4-usando-fixtures-e-stubs-em-testes)
 5. [Aplicando Boas Práticas com o Cypress](#5-aplicando-boas-práticas-com-o-cypress)
 
+## Tecnologias Envolvidas
+<div style="display: inline_block">
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</div>
+
 ## 1. Criando Testes com o Cypress
 Nesta fase, aprendi a iniciar um novo projeto de testes com Cypress:
 - **Iniciando o projeto**: Utilização do comando `npm init` para criar o arquivo `package.json`.
