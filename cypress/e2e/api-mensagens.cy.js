@@ -1,5 +1,5 @@
 // API Test
-/* describe('API Adopet', () => {
+describe('API Adopet', () => {
 
     const authorization = `Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlOGE2NGU4NS1hMzRiLTQ3ZGEtYjY1YS05MzczMDA5MWEyOGEiLCJhZG9wdGVyTmFtZSI6IkRvdWdsYXMgRGVsYXMiLCJpYXQiOjE3MTc2MzA0NzgsImV4cCI6MTcxNzg4OTY3OH0.0fmdPGM1hU567qvOxpRQ6FHtk3a0CEIyw6s0rYLZO38`
     it('Mensagens da API', () => {
@@ -14,11 +14,10 @@
         });
     });
     
-}) */
+})
 
 // Flaky test
-
-describe('API Adopet', () => {
+/* describe('API Adopet', () => {
     const tempoEsperado = Math.random() * 1000;
 
     const authorization = `Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlOGE2NGU4NS1hMzRiLTQ3ZGEtYjY1YS05MzczMDA5MWEyOGEiLCJhZG9wdGVyTmFtZSI6IkRvdWdsYXMgRGVsYXMiLCJpYXQiOjE3MTc2MzA0NzgsImV4cCI6MTcxNzg4OTY3OH0.0fmdPGM1hU567qvOxpRQ6FHtk3a0CEIyw6s0rYLZO38`
@@ -35,4 +34,4 @@ describe('API Adopet', () => {
         });
     });
     
-})
+}) */
